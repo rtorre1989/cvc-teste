@@ -1,0 +1,14 @@
+br\com\cvc\teste\cvcteste\model\cotacao\CotacaoCatagoryRoomModel.class
+br\com\cvc\teste\cvcteste\service\CotacaoHoteisService.class
+br\com\cvc\teste\cvcteste\model\cotacao\CotacaoHotelModel.class
+br\com\cvc\teste\cvcteste\service\BrokerService.class
+br\com\cvc\teste\cvcteste\model\broker\PriceModel.class
+br\com\cvc\teste\cvcteste\model\broker\HotelModel.class
+br\com\cvc\teste\cvcteste\model\broker\RoomModel.class
+br\com\cvc\teste\cvcteste\model\cotacao\CotacaoPriceModel.class
+br\com\cvc\teste\cvcteste\CvcTesteApplication.class
+br\com\cvc\teste\cvcteste\service\CotacaoHoteisServiceImpl.class
+br\com\cvc\teste\cvcteste\controller\CotacaoHoteisController.class
+br\com\cvc\teste\cvcteste\model\cotacao\CotacaoRoomModel.class
+br\com\cvc\teste\cvcteste\properties\BrokerProperties.class
+br\com\cvc\teste\cvcteste\service\BrokerServiceImpl.class
